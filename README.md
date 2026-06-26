@@ -89,7 +89,7 @@ Warehouse-Database/
 3. Copy the contents of:
 
 ```text
-sql/warehouse_database.sql
+sql/Warehouse.sql
 ```
 
 4. Execute the SQL script.
