@@ -48,9 +48,9 @@ Warehouse-Database/
 │   └── Warehouse.sql
 │
 └── images/
-    ├── erd.png
-    ├── relational_schema.png
-    └── normalization_3nf.png
+    ├── erd.jpg
+    ├── relational_schema.jpg
+    └── normalization_3nf.jpg
 ```
 
 ---
@@ -59,19 +59,19 @@ Warehouse-Database/
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD](images/erd.png)
+![ERD](images/erd.jpg)
 
 ---
 
 ## Relational Schema
 
-![Relational Schema](images/relational_schema.png)
+![Relational Schema](images/relational_schema.jpg)
 
 ---
 
 ## Database Normalization (3NF)
 
-![Normalization](images/normalization_3nf.png)
+![Normalization](images/normalization_3nf.jpg)
 
 ---
 
