@@ -8,7 +8,7 @@ A database design project that models a warehouse management system through the 
 
 ### Entity Relationship Diagram (ERD)
 
-<img src="images/erd.png" width="100%">
+<img src="images/erd.jpg" width="100%">
 
 The ERD defines the relationships between warehouse entities such as products, suppliers, customers, transactions, and inventory.
 
@@ -16,7 +16,7 @@ The ERD defines the relationships between warehouse entities such as products, s
 
 ### Third Normal Form (3NF)
 
-<img src="images/normalization_3nf.png" width="100%">
+<img src="images/normalization_3nf.jpg" width="100%">
 
 The database was normalized to Third Normal Form (3NF) to reduce redundancy while maintaining data integrity and consistency.
 
@@ -24,7 +24,7 @@ The database was normalized to Third Normal Form (3NF) to reduce redundancy whil
 
 ### Relational Schema
 
-<img src="images/relational_schema.png" width="100%">
+<img src="images/relational_schema.jpg" width="100%">
 
 The relational schema translates the ERD into a database structure consisting of related tables, primary keys, and foreign keys.
 
